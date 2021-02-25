@@ -1,0 +1,7 @@
+{
+  "name": "@types/distance_matrix_ai_webservice",
+  "version": "1.0.5",
+  "description": "TypeScript typings for `distance_matrix_ai_webservice` Node.JS API project.",
+  "types": "index.d.ts",
+  "license": "MIT"
+}
